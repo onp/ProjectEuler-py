@@ -22,7 +22,7 @@ while len(working)>0:
 
 def noEvenRotations(x):
     for a in str(x):
-        if int(a) in [0,2,4,6,8]:
+        if int(a) in [0,2,4,5,6,8]:
             return False
     return True
     
@@ -30,7 +30,7 @@ newWorking = [x for x in range(2,1000000) if noEvenRotations(x)]
 
 print(len(newWorking), "candidates")
     
-circularPrimes = [2]
+circularPrimes = [2,5]
 
 def isPrime(x):
     x = int(x)
