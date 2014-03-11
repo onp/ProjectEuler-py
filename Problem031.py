@@ -1,5 +1,5 @@
-# Project Euler Problem #30
-# Digit fifth powers
+# Project Euler Problem #31
+# Coin Sums
 ''' In England the currency is made up of pound, £, and pence, p, and there are
     eight coins in general circulation:
 
