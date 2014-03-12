@@ -72,4 +72,4 @@ for a in candidates:
 print(len(truncatablePrimes),"truncatable primes")
 print(sum(truncatablePrimes))
     
-# A = 
+# A = 748317

@@ -1,0 +1,10 @@
+# Project Euler Problem #
+# 
+'''
+
+
+'''
+
+    
+    
+# A = 
